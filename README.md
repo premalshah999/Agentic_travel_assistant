@@ -1,18 +1,18 @@
-# 🧳 Travel Agent AI
+#  Travel Agent AI
 
 An intelligent travel planning assistant built with Python.  
 This AI-powered project helps users plan trips, find destinations, and organize travel itineraries.
 
 ---
 
-## 📌 Features
-- 🧠 AI-powered itinerary suggestions
-- 🌍 Destination recommendations
-- 📅 Activity scheduling
-- 🗣️ Interactive Q&A travel assistant
-- ✅ Fully tested with `pytest`
+##  Features
+-  AI-powered itinerary suggestions
+-  Destination recommendations
+-  Activity scheduling
+-  Interactive Q&A travel assistant
+-  Fully tested with `pytest`
 
-## 🛠️ Technologies Used
+##  Tech Stack
 
 -   **Backend**: Python
 -   **AI Framework**: LangChain
@@ -24,7 +24,7 @@ This AI-powered project helps users plan trips, find destinations, and organize 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -72,7 +72,7 @@ streamlit run app.py
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 ```bash
 pytest test_code.py
 ```
@@ -97,7 +97,7 @@ README.md          # Project documentation
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 <img width="1512" height="982" alt="Screenshot 2025-08-14 at 7 26 22 PM" src="https://github.com/user-attachments/assets/97b690f0-83eb-438a-a7bd-54141f884b93" />
 
 
@@ -109,7 +109,7 @@ MIT
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
 ---
